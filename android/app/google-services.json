@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409957696862",
+    "project_id": "formulario-4e7ac",
+    "storage_bucket": "formulario-4e7ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409957696862:android:38de922857c47ec3423bcf",
+        "android_client_info": {
+          "package_name": "com.example.formulario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409957696862-6jh2ucpenc2o039h0k2i2m45pm1o0ibp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASv0t6eTQGV6gGqBGQ_eZrsUtknH9cG2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409957696862-6jh2ucpenc2o039h0k2i2m45pm1o0ibp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
